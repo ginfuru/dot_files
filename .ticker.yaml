@@ -5,7 +5,6 @@ show-separator: true
 interval: 10
 watchlist:
   - BUSXF
-  - GME
   - BTC-USD
   - ETH-USD
   - XLM-USD
